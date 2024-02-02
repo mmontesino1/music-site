@@ -1,0 +1,39 @@
+body {
+    background-image:url(https://images.hgmsites.net/hug/lana-del-rey-and-the-2014-jaguar-f-type_100419185_h.jpg);
+    background-position: relative;
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: width ="1200";
+    background-size: length="1200";
+
+}
+
+h1{
+    color: darkkhaki;
+}
+h2{
+    color:burlywood;
+}
+h3{
+    color: rgb(161, 161, 114);
+}
+table,th,td{
+    border:1px solid white;
+    }
+table{
+    background-color: aliceblue;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table,th,td{
+border:1px solid white
+}
+table{
+    background-color:beige;
+}
